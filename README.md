@@ -48,5 +48,5 @@
 - [XFPrinter](https://github.com/dorisoy/XFPrinter) Xamarin 实现热敏条码小票打印
 - [XF.KeepAlive](https://github.com/dorisoy/XF.KeepAlive) Xamarin.Android 保活方案, AndroidX 快速实现
 - [RichEditor](https://github.com/dorisoy/RichEditor) Xamarin.Forms 下实现Rich文本编辑器功能
-- [EasyUI.ForMvc](https://github.com/dorisoy/EasyUI.ForMvc) 早起ASP.NET NVC4 实现的全套Web开发组件
+- [EasyUI.ForMvc](https://github.com/dorisoy/EasyUI.ForMvc) 早期ASP.NET NVC4 实现的全套Web开发组件
 
