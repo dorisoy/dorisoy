@@ -26,6 +26,7 @@
 
 ### 个人开源项目
 
+- [CRB.TPM](https://github.com/dorisoy/CRB.TPM)  .netcore 6 + vue下的一套企业级模块化快速开发框架
 - [DCMS](https://github.com/dorisoy/DCMS)  一套SaaS经销商管理系统
 - [DCMS](https://github.com/dorisoy/DCMS.Client) 一套经销商管理系统Android 移动客户端
 - [DCMS.Light](https://github.com/dorisoy/DCMS.Light) 一套经销商管理系统微信小程序客户端
