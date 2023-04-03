@@ -4,7 +4,7 @@
 <tr>
 <td width="50%">
 
-- 🔭 I’m currently working on [DCMS](https://github.com/dorisoy/dcms).
+- 🔭 I’m currently working on [NEWDCMS](https://github.com/NEWDCMS).
 - 🌱 I’m currently learning MAUI architecture.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.
