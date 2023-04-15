@@ -37,7 +37,7 @@
 - [Dorisoy.OpenAPIGenerator](https://github.com/dorisoy/Dorisoy.OpenAPIGenerator) 使用.net6.0下 WPF 开发的WebAPI 转OpenAPI生成工具
 - [Dorisoy.Rigger ](https://github.com/dorisoy/Dorisoy.Rigger) 使用.net6.0开发的快速代码生成器
 - [Dorisoy.TryCostEngine](https://github.com/dorisoy/Dorisoy.TryCostEngine) TPM销售政策模拟器
-- [Dorisoy.SE ](https://github.com/dorisoy/Dorisoy.POS) 使用.net6.0+Blazor开发的POS进销存系统
+- [Dorisoy.SE ](https://github.com/dorisoy/Dorisoy.SE) 使用.net6.0+Blazor开发的POS进销存系统
 - [Dorisoy.BICompressor](https://github.com/dorisoy/Dorisoy.BICompressor) 图片无损批量压缩工具
 - [Dorisoy.SMS](https://github.com/dorisoy/Dorisoy.SMS) 使用.net6.0的跨平台WPF学校信息管理系统
 - [Dorisoy.EmailAuto](https://github.com/dorisoy/Dorisoy.EmailAuto) Winform开发的自动邮件发送工具
