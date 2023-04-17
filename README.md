@@ -8,8 +8,8 @@
 - 🌱 I’m currently learning MAUI architecture.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.
-- 🖖 My blog is [dorisoy](http://www.dorsoy.com/)
-- 🖖 My email is [czhcom@163.com](mailto:czhcom@163.com)
+- 🖖 Blog [dorisoy](http://www.dorsoy.com/)
+- 🖖 Email [czhcom@163.com](mailto:czhcom@163.com)
 
 </td>
 <td>
