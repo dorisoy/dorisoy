@@ -27,7 +27,6 @@
 ### 个人开源项目
 - [Dorisoy.EasyScan](https://github.com/dorisoy/EasyScan) 使用 Winform+Quartz 开发的一套 Windows 桌面运营商，手机靓号采集/爬虫扫描工具 :new:
 - [ShortVideo.AutoPublisher](https://github.com/dorisoy/ShortVideo.AutoPublisher) 使用WPF+CefSharp实现的[抖音](https://creator.douyin.com)，[百家号](https://baijiahao.baidu.com/builder/rc/edit?type=videoV2)，[小红书](https://creator.xiaohongshu.com)，[视频号](https://channels.weixin.qq.com)，[头条](https://mp.toutiao.com/profile_v4/xigua/upload-video)，等平台短视频自动发布工具。 :new:
-- [CRB.TPM](https://github.com/dorisoy/CRB.TPM)  .netcore 6 + vue下的一套企业级模块化快速开发框架 :new:
 - [DCMS](https://github.com/dorisoy/DCMS)  一套SaaS经销商管理系统
 - [DCMS.POS](https://github.com/NEWDCMS/DCMS.POS) 尝试基于mudblaczor在MAUI下构建的跨平台新零售采购、销售和库存管理系统  :new:
 - [DCMS.Client](https://github.com/dorisoy/DCMS.Client) 一套经销商管理系统Android 移动客户端
