@@ -25,7 +25,7 @@
 
 
 ### 个人开源项目
-- [Dorisoy.SIOT](https://github.com/dorisoy/Dorisoy.SIOT) 一款在.Net8.0下使用 MAUI 框架开发的跨平台牙科治疗机物联网移动端应用程序，实现了水温检测Speedometer，高速手机转速RadialGauge，电动马达功率，光纤灯光亮度调节等数据采集的仪表盘数据监测，并实现数据采集的可视化检测和远程控制。
+- [Dorisoy.SIOT](https://github.com/dorisoy/Dorisoy.SIOT) 一款在.Net8.0下使用 MAUI 框架开发的跨平台牙科治疗机物联网移动端应用程序，实现了水温检测Speedometer，高速手机转速RadialGauge，电动马达功率，光纤灯光亮度调节等数据采集的仪表盘数据监测，并实现数据采集的可视化检测和远程控制。 :new:
 - [FFmpeg.AutoGen.Toolkit](https://github.com/dorisoy/FFmpeg.AutoGen.Toolkit) 是基于FFFmpeg.Autogen 原生FFmpeg 绑定库(https://github.com/Ruslan-B/FFmpeg.AutoGen) 的扩展工具包，使用它你可以很轻松创建和读取多媒体文件,如摄像头捕获视频后进行H.265编/解码。 :new:
 - [Dorisoy.EasyScan](https://github.com/dorisoy/EasyScan) 使用 Winform+Quartz 开发的一套 Windows 桌面运营商，手机靓号采集/爬虫扫描工具 :new:
 - [ShortVideo.AutoPublisher](https://github.com/dorisoy/ShortVideo.AutoPublisher) 使用WPF+CefSharp实现的[抖音](https://creator.douyin.com)，[百家号](https://baijiahao.baidu.com/builder/rc/edit?type=videoV2)，[小红书](https://creator.xiaohongshu.com)，[视频号](https://channels.weixin.qq.com)，[头条](https://mp.toutiao.com/profile_v4/xigua/upload-video)，等平台短视频自动发布工具。 :new:
