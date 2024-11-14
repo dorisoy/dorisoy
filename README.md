@@ -25,8 +25,8 @@
 
 
 ### 个人开源项目
-- [Dorisoy.PeriodontalChat.Maui](https://github.com/dorisoy/Dorisoy.PeriodontalChat.Maui) 一款.net8下使用Maui 构建专门用于临床牙科手术和牙周检查的图表工具。:new:
-- [Dorisoy.PeriodontalChart.JavaFX](https://github.com/dorisoy/Dorisoy.PeriodontalChat.JavaFX) 使用 JavaFX 构建专门用于牙科手术和牙周检查的软件工具，它提供了一个直观且功能丰富的界面，使得牙科医生能够轻松地进行牙齿数据的记录、分析和管理。
+- [Dorisoy.PeriodontalChat.Maui](https://github.com/dorisoy/Dorisoy.PeriodontalChat.Maui) 一款.net8下使用Maui 构建专门用于临床牙科手术和牙周检查的图表工具。 :new:
+- [Dorisoy.PeriodontalChart.JavaFX](https://github.com/dorisoy/Dorisoy.PeriodontalChat.JavaFX) 使用 JavaFX 构建专门用于牙科手术和牙周检查的软件工具，它提供了一个直观且功能丰富的界面，使得牙科医生能够轻松地进行牙齿数据的记录、分析和管理。 :new:
 - [Dorisoy.HandTracking](https://github.com/dorisoy/Dorisoy.HandTracking) 使用卷积神经网络(CNN)，线性回归和向量机(SVM)算法,实现一个具有手部跟踪和手势识别功能的Unity目标检测应用程序.  :new:
 - [Dorisoy.ToothTracking](https://github.com/dorisoy/Dorisoy.ToothTracking) 使用 Yolo5算法, 进行深度学习口腔牙齿追踪和目标中心点检测. :new:
 - [Dorisoy.SIOT](https://github.com/dorisoy/Dorisoy.SIOT) 一款在.Net8.0下使用 MAUI 框架开发的跨平台牙科治疗机物联网移动端应用程序，实现了水温检测Speedometer，高速手机转速RadialGauge，电动马达功率，光纤灯光亮度调节等数据采集的仪表盘数据监测，并实现数据采集的可视化检测和远程控制。 :new:
