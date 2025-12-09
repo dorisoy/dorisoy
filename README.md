@@ -25,7 +25,10 @@
 
 
 ### 个人开源项目
-- [Sinol.PTFC](https://github.com/dorisoy/Sinol.PTFC) Sinol.PTFC种植体预紧力计算器,用于准确计算牙科种植体螺钉的预紧力 :new:
+
+- [Dorisoy.3D-MIR](https://github.com/dorisoy/Dorisoy.3D-MIR) 一款口腔医学影像三维重建软件 :new:
+- [Dorisoy.DICOM](https://github.com/dorisoy/Dorisoy.DICOM) .NET下首款开源专业级 DICOM 医学影像查看器与 PACS 管理系统 :new:
+- [Dorisoy.PTFC](https://github.com/dorisoy/Sinol.PTFC) Sinol.PTFC种植体预紧力计算器,用于准确计算牙科种植体螺钉的预紧力 :new:
 - [Dorisoy.DentalChair](https://github.com/dorisoy/Dorisoy.DentalChair) 一款基于Maui 开发用于牙科治疗机控制的中控触摸屏操作系统。 :new:
 - [Dorisoy.PeriodontalChat.Maui](https://github.com/dorisoy/Dorisoy.PeriodontalChat.Maui) 一款.net8下使用Maui 构建专门用于临床牙科手术和牙周检查的图表工具。 :new:
 - [Dorisoy.PeriodontalChart.JavaFX](https://github.com/dorisoy/Dorisoy.PeriodontalChat.JavaFX) 使用 JavaFX 构建专门用于牙科手术和牙周检查的软件工具，它提供了一个直观且功能丰富的界面，使得牙科医生能够轻松地进行牙齿数据的记录、分析和管理。 :new:
