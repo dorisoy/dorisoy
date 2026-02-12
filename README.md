@@ -8,7 +8,7 @@
 - 🌱 I’m currently learning MAUI architecture.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.
-- 🖖 Stores [shop](http://shop.unitos.cn/)
+- 🖖 Stores [http://shop.unitos.cn](http://shop.unitos.cn/)
 - 🖖 Email [czhcom@163.com](mailto:czhcom@163.com)
 
 </td>
