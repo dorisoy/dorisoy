@@ -12,11 +12,7 @@
 - 🖖 Email [czhcom@163.com](mailto:czhcom@163.com)
 
 </td>
-<td>
 
- ![dorsoy's Github Stats](https://github-readme-stats.vercel.app/api?username=dorisoy&show_icons=true&hide_border=true)
- 
- </td>
  </tr>
 </table>
 
