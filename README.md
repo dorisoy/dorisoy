@@ -2,7 +2,7 @@
 
 <table>
 <tr>
-<td width="50%">
+<td width="100%">
 
 - 🔭 I’m currently working on [NEWDCMS](https://github.com/NEWDCMS).
 - 🌱 I’m currently learning MAUI architecture.
