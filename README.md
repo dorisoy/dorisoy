@@ -1,8 +1,8 @@
 ### **Dorisoy**   👋
 
-<table>
+<table width="100%">
 <tr>
-<td width="100%">
+<td >
 
 - 🔭 I’m currently working on [NEWDCMS](https://github.com/NEWDCMS).
 - 🌱 I’m currently learning MAUI architecture.
