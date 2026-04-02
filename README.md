@@ -22,6 +22,8 @@
 
 ### [个人开源项目](https://shop.unitos.cn/)
 
+- [Dorisoy.BTRemote](https://github.com/dorisoy/Dorisoy.BTRemote) Sony FCB-EV9520L 30倍光学变焦摄像机蓝牙无线遥控系统  :new:
+- [Dorisoy.MotorSimulator](https://github.com/dorisoy/Dorisoy.MotorSimulator)  Bien-Air 无刷无感电动马达模拟器 :new:
 - [Dorisoy.3D-MIR](https://github.com/dorisoy/Dorisoy.3D-MIR) 一款口腔医学影像三维重建软件 :new:
 - [Dorisoy.DICOM](https://github.com/dorisoy/Dorisoy.DICOM) .NET下首款开源专业级 DICOM 医学影像查看器与 PACS 管理系统 :new:
 - [Dorisoy.PTFC](https://github.com/dorisoy/Sinol.PTFC) Sinol.PTFC种植体预紧力计算器,用于准确计算牙科种植体螺钉的预紧力 :new:
