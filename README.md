@@ -4,12 +4,11 @@
 <tr>
 <td >
 
-- 🔭 I’m currently working on [NEWDCMS](https://github.com/NEWDCMS).
-- 🌱 I’m currently learning MAUI architecture.
+- 🌱 I’m currently learning AI, computer vision, and medical robotics.
 - 💕 I’m an open source enthusiast.
 - 🖖 I’m a system architecture developer.
-- 🖖 Stores [https://shop.unitos.cn](https://shop.unitos.cn/)
-- 🖖 Email [czhcom@163.com](mailto:czhcom@163.com)
+- 🖖 Stores https://shop.unitos.cn
+- 🖖 Email czhcom@163.com
 
 </td>
 
